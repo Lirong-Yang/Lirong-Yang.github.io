@@ -1,46 +1,34 @@
 works:
-- title: "Laboratories of Democracy? Experimental Evidence on Policy Diffusion between Municipalities in Brazil"
-  coauthors: "Ines Badin, Jonas Hjort, Diana Moreira, Juan Santini"
+- title: "Product Differentiation, Price Revisions, and Collusion"
+  coauthors: "Yohanes E. Riyanto and Nilanjan Roy"
+  book: "Revise and Resubmit, Management Science"
   abstract: >
-      How do public policies diffuse across governments? We study the adoption of a simple, low-cost, and relatively uncontroversial tax policy by municipal governments in Brazil. We revisit a field experiment that randomized 1,818 mayors to an information treatment where they learned about the policy and its effectiveness. We test whether the information treatment has an effect on the policy adoption of other municipalities. We find robust evidence of quantitatively large spillovers. The indirect impact of geographic spillovers on adoption is comparable in magnitude to the direct treatment effect. Having a treated neighbor influences municipalities that were themselves treated, suggesting that these policy spillovers are not driven merely by the spread of the originally-provided information. Geographic proximity plays the largest role in generating policy diffusion; political party and economic/demographic similarity play less of a role. Using unique survey data on mayors’ networks, we show that communication patterns mirror this hierarchy of importance, with geographic proximity emerging as the strongest predictor.
+      We design an experiment to examine the effects of a revision mechanism in a Hotelling
+price duopoly market. This mechanism allows players to adjust prices at revision opportunities
+arriving randomly, with prices set at the last opportunity being implemented. We
+find that the revision mechanism leads to higher implemented prices and profits, with the
+marginal benefit of allowing price revisions in achieving collusion increasing in the degree
+of product differentiation. Achieving more collusive prices in the presence of a stochastic
+revision mechanism without any overt communication highlights the challenges faced by
+regulators in the age of algorithmic pricing.
 
-- title: "Incentives, Evidence, and Reminders for Bureaucrats: Overcoming Barriers to Policy Scale Up"
-  pdflink: "/pdf/Reminders for bureaucrats.pdf"
-  coauthors: "Patrick Agte, Daniel Morales, Christopher Neilson, Sebastian Otero"
-  links:
-    - url: "https://www.socialscienceregistry.org/trials/3324"
-      text: "Pre-Registration"
+- title: "Equilibrium Selection through Action Revision: Experiments"
+  coauthors: "Yohanes E. Riyanto and Nilanjan Roy"
   abstract: >
-      Scaling up effective policies often requires the attention of frontline bureaucrats with many competing responsibilities. Even when policymakers adopt effective programs, implementation may not follow. In a nationwide experiment in the Dominican Republic, we test interventions to increase school principals' implementation of an educational program proven effective in a previous RCT. Only 37% of control schools verifiably implemented the intervention when ordered to by the Ministry of Education, compared with 83% in the original trial. Implementation was no higher among schools that previously implemented the program in the RCT, suggesting that fixed costs of adoption do not explain non-adoption. We find precise null effects of sharing research evidence, providing modest financial incentives, or offering implementation assistance to principals. In contrast, additional reminder calls increased implementation by 20 percentage points. A second experiment targeting a different mandated program yields the same pattern: reminders produce large effects, while monitoring messages have smaller effects. Our findings point to limited attention among bureaucrats as an important barrier to scaling policies.
-
-- title: "Financial Incentives, Health Screening, and Selection into Mental Health Care: Experimental Evidence from College Students in India"
-  pdflink: "/pdf/Rao_Therapy_Incentives_Screening.pdf"
-  coauthors: "Emily Breza, Kevin Carney, Vijaya Raghavan, Kailash Rajah, Thara Rangaswamy, Frank Schilbach, Sobia Shadbar"
-  book: "Revise and Resubmit, Journal of the European Economic Association (JEEA)"
-  links:
-    - url: "https://www.socialscienceregistry.org/trials/15379"
-      text: "Pre-Registration"
-  abstract: >
-      In an RCT with college students in Chennai (N=340), we test how modest financial incentives and personalized feedback affect the uptake and targeting (by symptom severity) of free therapy. Despite 56% of students screening positive for at least mild depression or anxiety, only 3% in the control group took up therapy. A small cash incentive increased appointments by 9 percentage points (p = 0.06) on average without substantially affecting targeting. Personalized feedback and recommendations based on a mental health screening tool significantly improved targeting while keeping overall take-up largely unchanged. Combining these two treatments achieved both higher take-up and improved targeting, by increasing appointments among symptomatic individuals by 21 pp (p < 0.01) without affecting uptake by asymptomatic individuals. These findings suggest that low-cost incentives coupled with screening information can effectively increase uptake while allocating limited mental health care resources to those with greater need.
-
-- title: "The Endowment Effect and Collateralized Loans"
-  pdflink: "/pdf/Rao_endowment_effect_collateralized_loans.pdf"
-  coauthors: "Kevin Carney, Michael Kremer and Xinyue Lin"
-  book: "Revise and Resubmit, Econometrica"
-  abstract: >
-      Collateral requirements play an important role in credit markets. This paper shows that the endowment effect---the phenomenon where owing a good increases one's valuation of it---inhibits demand for loans which use a borrower's existing assets as collateral. Using a field experiment in Kenya, we show that borrowers instead strongly prefer loans collateralized using the new durable assets being financed by the loans themselves. They are willing to pay 9% per month higher interest for such Same-Asset Collateralized Loans (SACLs) despite the endowed and new assets being randomized, and thus similarly valued before ownership. Our findings imply that assets which are difficult to use as collateral---which cannot be financed by SACLs---will be invested in less, even if the borrower has other collateral. We argue that borrowers' preference for SACLs is driven by naivete: they initially perceive that they have little to lose when offered a SACL, but subsequently come to develop an attachment to the new asset, resulting in high repayment effort. Consistent with this, borrowers underestimate their future attachment to an asset before owning it, and SACLs do not have higher default rates despite having higher demand. We derive the conditions under which offering consumers SACLs increases or conversely decreases borrower welfare.
-
-- title: "Learning in the Household"
-  pdflink: "/pdf/Learning in the Household.pdf"
-  coauthors: "John Conlon, Malavika Mani, Matthew Ridley and Frank Schilbach"
-  links:
-    - url: "https://www.socialscienceregistry.org/trials/4253"
-      text: "Pre-Registration"
-  abstract: >
-      How well do spouses pool information and learn from each other when they have incentives to do so? In an experiment with married couples in India, we vary whether individuals discover information themselves or must instead learn it from their spouse. Women's individual decisions respond equally to their own and their husbands' information. In contrast, men's decisions respond only half as much to their wives' information, even when it is perfectly communicated. Joint decision-making instead leads to equal weights on husbands' and wives' information. Our findings suggest that decisions made by men, at least in our study context, are likely to insufficiently incorporate useful information held by their wives.
-
-- title: "The Long-Run Effects of Psychotherapy on Depression, Beliefs, and Economic Outcomes"
-  pdflink: "/pdf/Rao_psychotherapy_paper.pdf"
-  coauthors: "Bhargav Bhat, Jon de Quidt, Johannes Haushofer, Vikram Patel, Frank Schilbach and Pierre-Luc Vautrey"
-  abstract: >
-      We revisit two clinical trials that randomized depressed adults in India (n=775) to a brief course of psychotherapy or a control condition. Four to five years later, the treatment group had 11 percentage points less depression than the control group. The more effective intervention averted 9 months of depression on average over five years and cost only \$66. Therapy changed people's beliefs about themselves in three ways. First, it reduced their likelihood of seeing themselves as a failure or feeling bad about themselves. Second, when faced with a novel work opportunity, therapy reduced over-optimistic belief updating and thus reduced overconfidence. Third, it increased self-assessed levels of patience and altruism. Therapy did not increase levels of employment or consumption, possibly because of other constraints on employment in the largely female study sample.
+      We designed an experiment on action revision in coordination games with conflicting
+interests. Players privately adjust their desired actions during a revision period, and these
+revision opportunities make those choices public and binding. We reverse which player receives
+revision opportunities more often in Battle of the Sexes and three inequality games,
+and vary the column player’s cost of insisting on the preferred outcome across the inequality
+games. Players obtain their preferred equilibrium more often when they receive fewer
+revision opportunities. The difference between treatments ranges from 16 to 21 percentage
+points for the row player and from 10 to 19 for the column player. Intuitively, fewer
+chances to revise make a player’s current action more persistent, encouraging the opponent
+to accommodate it. The row player’s preferred equilibrium occurs more often when insisting
+is more costly. Players may choose compatible actions but end with a mismatch if those 
+choices never become binding. We compare two rules. Respond-Now (RN) favors actions that pay better
+against the opponent’s current action; Look-Ahead (LA) anticipates future opportunities.
+We fit each with and without stay-put (SP), a tendency to leave the public action unchanged.
+Among the models compared, RN+SP best predicts outcomes in sessions not used to fit the
+model. Reported LLM simulations show the same patterns. Revision opportunities shape
+which equilibrium players reach, not only whether they coordinate.

@@ -11,15 +11,10 @@ works:
 - title: "Equilibrium Selection through Action Revision: Experiments"
   coauthors: "Yohanes E. Riyanto and Nilanjan Roy"
   abstract: >
-      We designed an experiment on action revision in coordination games with conflicting interests. 
-      Players privately adjust their desired actions during a revision period, and these revision opportunities make those choices public and binding. 
-      We reverse which player receives revision opportunities more often in Battle of the Sexes and three inequality games, and vary the column player’s cost of insisting on the preferred outcome across the inequality games. 
-      Players obtain their preferred equilibrium more often when they receive fewer revision opportunities. 
-      The difference between treatments ranges from 16 to 21 percentage points for the row player and from 10 to 19 for the column player. 
-      Intuitively, fewer chances to revise make a player’s current action more persistent, encouraging the opponent to accommodate it. 
-      The row player’s preferred equilibrium occurs more often when insisting is more costly. Players may choose compatible actions but end with a mismatch if those choices never become binding. 
-      We compare two rules: Respond-Now (RN) favors actions that pay better against the opponent’s current action; Look-Ahead (LA) anticipates future opportunities. 
-      We fit each with and without stay-put (SP), a tendency to leave the public action unchanged. 
-      Among the models compared, RN+SP best predicts outcomes in sessions not used to fit the model. 
-      Reported LLM simulations show the same patterns. 
-      Revision opportunities shape which equilibrium players reach, not only whether they coordinate.
+      We designed an experiment to examine the effects of allowing players to revise their actions in coordination games with conflicting interests. 
+      Players receive random opportunities to revise actions, with final payoffs determined by actions at the last opportunity. 
+      Our experiment encompasses a Battle-of-the-Sexes game and three variations of the inequality game. 
+      Our treatments adjust the arrival frequency of revision opportunities, which affects the equilibrium selection predictions. 
+      The results reveal higher coordination rates with action revision compared to the mixed-strategy Nash equilibrium. 
+      The findings support theoretical predictions that players with fewer revision chances are more likely to realize their preferred outcomes. 
+      Beyond the frequency of the revision, the payoff structure emerges as a crucial factor in determining equilibrium selection.
